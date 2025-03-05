@@ -1,0 +1,115 @@
+{
+    "type": "apache_solr",
+    "data": {
+        "CoreName": "sample_core",
+        "SizeofIndex": 115366912,
+        "NumberofDocuments": 162000,
+        "Index": [
+            {
+                "IndexName": "sample_index",
+                "Documents": [
+                    {
+                        "document_id": "user53653",
+                        "fieldTypes": [
+                            {
+                                "fieldName": "email",
+                                "value": "FuJxV@example.com"
+                            },
+                            {
+                                "fieldName": "id",
+                                "value": "user:53653"
+                            },
+                            {
+                                "fieldName": "purchase_history",
+                                "value": [
+                                    {
+                                        "date": "2023-10-31",
+                                        "item_id": "item_296",
+                                        "price": 243.78
+                                    },
+                                    {
+                                        "date": "2023-04-04",
+                                        "item_id": "item_205",
+                                        "price": 42.4
+                                    }
+                                ]
+                            },
+                            {
+                                "fieldName": "roles",
+                                "value": [
+                                    "viewer"
+                                ]
+                            },
+                            {
+                                "fieldName": "sensitive_data",
+                                "value": {
+                                    "credit_card": "4649-8296-3297-2702",
+                                    "cvv": "447",
+                                    "password": "FeZRbvUvN4Mz",
+                                    "pin": "9442",
+                                    "ssn": "969-22-8565"
+                                }
+                            }
+                        ]
+                    },
+                    {
+                        "document_id": "user:53653",
+                        "fieldTypes": [
+                            {
+                                "fieldName": "email",
+                                "value": "6gWn9@example.com"
+                            },
+                            {
+                                "fieldName": "preferences",
+                                "value": {
+                                    "language": "de",
+                                    "notifications": {
+                                        "email": true,
+                                        "sms": false
+                                    }
+                                }
+                            },
+                            {
+                                "fieldName": "purchase_history",
+                                "value": [
+                                    
+                                    {
+                                        "date": "2023-04-21",
+                                        "item_id": "item_571",
+                                        "price": 282.16
+                                    },
+                                    {
+                                        "date": "2024-04-26",
+                                        "item_id": "item_737",
+                                        "price": 308.95
+                                    }
+                                ]
+                            },
+                            {
+                                "fieldName": "roles",
+                                "value": [
+                                    "editor",
+                                    "admin",
+                                    "viewer"
+                                ]
+                            },
+                            {
+                                "fieldName": "sensitive_data",
+                                "value": {
+                                    "credit_card": "4755-9453-3464-6623",
+                                    "cvv": "409",
+                                    "password": "24UsTk16KrZG",
+                                    "pin": "4973",
+                                    "ssn": "154-24-4520"
+                                }
+                            }
+                        ]
+                    }
+
+
+                ]
+            }
+        ]
+    
+    }
+}

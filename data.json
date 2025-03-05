@@ -1,0 +1,21 @@
+[
+    {
+      "id": "1",
+      "title": "First Document",
+      "author": "Alice",
+      "category": "Tech"
+    },
+    {
+      "id": "2",
+      "title": "Second Document",
+      "author": "Bob",
+      "category": "Science"
+    },
+    {
+      "id": "3",
+      "title": "Third Document",
+      "author": "Charlie",
+      "category": "History"
+    }
+  ]
+  
